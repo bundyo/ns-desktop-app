@@ -1,0 +1,4 @@
+../nodegui-starter/node_modules
+dist/
+*.log
+.vscode

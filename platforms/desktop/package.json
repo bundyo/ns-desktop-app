@@ -1,0 +1,21 @@
+{
+  "name": "nodegui-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Atul R <atulanand94@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "qode ./src/index.js",
+    "debug": "qode --inspect-brk ./src/index.js"
+  },
+  "dependencies": {
+    "@nodegui/nodegui": "0.12.1",
+    "@nodegui/qode": "1.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "12.12.5",
+    "file-loader": "4.2.0",
+    "node-loader": "0.6.0"
+  }
+}
