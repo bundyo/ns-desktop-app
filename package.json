@@ -20,7 +20,7 @@
   "devDependencies": {
     "nativescript-dev-webpack": "file:../nativescript-dev-webpack/",
     "nativescript-worker-loader": "0.10.0",
-    "@nodegui/nodegui": "0.12.1",
+    "@nodegui/nodegui": "0.13.0",
     "clean-webpack-plugin": "1.0.0",
     "copy-webpack-plugin": "4.6.0",
     "css-loader": "3.2.0",
